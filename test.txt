@@ -1,3 +1,4 @@
 
  no commit 1
- commit 1
+ same commit
+ same commit
